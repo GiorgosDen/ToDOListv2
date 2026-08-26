@@ -41,7 +41,7 @@ This repository serves as the master documentation hub, outlining the architectu
 The project is structured following a modular multi-repo approach:
 
 * [x] **TaskMaster Frontend** — Built with **React.js, JavaScript (ES6+), and React Router** (Hosted on GitHub Pages).
-* [ ] **TaskMaster Backend** — Built with **Node.js, Express.js**, handling RESTful endpoints, authentication, and database connections.
+* [ ] **TaskMaster Backend** — Built with **Node.js, Express.js**, handling RESTful endpoints, authentication, and database connections. Link:https://github.com/GiorgosDen/ToDOListv2BackEnd
 * [ ] **Database (MySQL)** — Relational database schema designed for users, tasks, categories, and states.
 
 ---
