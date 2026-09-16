@@ -30,7 +30,7 @@ This repository serves as the master documentation hub, outlining the architectu
 
 ### 📝 Advanced Task Management
 * [x] **Flexible Time Periods:** Organize and view tasks across **Daily, Weekly, and Monthly** intervals.
-* [ ] **Status Controls:** Real-time state management for creating, completing, and deleting tasks.
+* [X] **Status Controls:** Real-time state management for creating, completing, and deleting tasks.
 * [ ] **Selective Updates:** Ability to update task details for items currently *In Progress*.
 * [x] **Categorization & Priorities:** Create, update, and delete custom task categories alongside a dedicated priority view for better workflow management.
 * [x] **Analytics:** Visual statistics tracking task completion and productivity.
