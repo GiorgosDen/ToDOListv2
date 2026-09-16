@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Project Status:** Version 2.0 is currently in active development. Check the roadmap below for upcoming features!
-> Check [Version 1.0](https://github.com/GiorgosDen/ToDoListv1) 
+> Check the previous version ([Version 1.0](https://github.com/GiorgosDen/ToDoListv1))
 
 # 📋 TaskMaster Full-Stack App (v2.0) — Documentation Hub
 
