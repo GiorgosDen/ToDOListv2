@@ -9,6 +9,9 @@ Welcome to the central documentation and project overview for **TaskMaster (v2.0
 
 This repository serves as the master documentation hub, outlining the architecture, features, and evolution of the application from its initial front-end prototype (`v1.0`) to a fully persistent, secure full-stack system (`v2.0`).
 
+# App's QR code:
+<img src="./Media/KLt14n.png" width="150" alt="App's QR code image">
+
 ---
 
 ## 🔄 Project Evolution: v1.0 vs. v2.0
