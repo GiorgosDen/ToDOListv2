@@ -48,15 +48,15 @@ This document contains a comprehensive visual tour of all features, views, and s
 ---
 
 ## 5. Responsive Design (Mobile & Tablet)
+
 | Mobile View | Tablet View | Description |
-| :---: | :---: | :---:|
-| ![Mobile UI](./Photos/LoginForm_Mobile.jpg) | ![Tablet UI](./) | User Login interface with validation |
-| ![Mobile UI](./Photos/SignUpForm_Mobile.jpg) | ![Tablet UI](./) | Registration page with secure password requirements |
-| ![Mobile UI](./Photos/ImportEmailToResetPassword_Mobile.jpg) | ![Tablet UI](./) | Start reset password flow |
-| ![Mobile UI](./Photos/ViewTasks_Mobile.jpg) | ![Tablet UI](./) | See weekly tasks |
-| ![Mobile UI](./Photos/CompletedTask_Mobile.jpg) | ![Tablet UI](./) | View the completed tasks |
-| ![Mobile UI](./Photos/StatisticsForm_Mobile.jpg) | ![Tablet UI](./) | Analytics |
-| *Responsive layout on smaller screens* | *Optimized layout for tablets* |
+| :---: | :---: | :--- |
+| <img src="./Photos/LoginForm_Mobile.jpg" alt="Mobile UI" width="250" /> | — | User Login interface with validation |
+| <img src="./Photos/SignUpForm_Mobile.jpg" alt="Mobile UI" width="250" /> | — | Registration page with secure password requirements |
+| <img src="./Photos/ImportEmailToResetPassword_Mobile.jpg" alt="Mobile UI" width="250" /> | — | Start reset password flow |
+| <img src="./Photos/ViewTasks_Mobile.jpg" alt="Mobile UI" width="250" /> | — | See weekly tasks |
+| <img src="./Photos/CompletedTask_Mobile.jpg" alt="Mobile UI" width="250" /> | — | View the completed tasks |
+| <img src="./Photos/StatisticsForm_Mobile.jpg" alt="Mobile UI" width="250" /> | — | Analytics |
 
 ---
 [⬅️ Back to Main README](../README.md)
