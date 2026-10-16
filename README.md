@@ -43,13 +43,50 @@ This repository serves as the master documentation hub, outlining the architectu
 
 ---
 
+## 🖼️ App Screenshots
+
+
+### 1. Task Management
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Daily Tasks View</b><br><br>
+      <img src="./Media/Photos/ViewDailyTaskSortedByState.png" width="100%" alt="Daily Tasks View">
+    </td>
+    <td align="center" width="33%">
+      <b>Add New Task Form</b><br><br>
+      <img src="./Media/Photos/AddTaskFormPage3.png" width="100%" alt="Add Task Form">
+    </td>
+    <td align="center" width="33%">
+      <b>Task Page View</b><br><br>
+      <img src="./Media/Photos/TaskPage.png" width="100%" alt="Task Page">
+    </td>
+  </tr>
+</table>
+
+### 2. Analytics
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>Main Dashboard View</b><br><br>
+      <img src="./Media/Photos/Statistics1Page.png" width="100%" alt="Dashboard View 1">
+    </td>
+    <td align="center" width="50%">
+      <b>Analytics & Stats</b><br><br>
+      <img src="./Media/Photos/Statistics2Page.png" width="100%" alt="Dashboard View 2">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏗️ System Architecture & Repositories
 
 The project is structured following a modular multi-repo approach:
 
-* [X] **[TaskMaster Frontend](https://github.com/GiorgosDen/ToDoListv2FrontEnd)** — Built with **React.js, JavaScript (ES6+), and React Router** (Hosted on GitHub Pages).
-* [X] **[TaskMaster Backend](https://github.com/GiorgosDen/ToDOListv2BackEnd)** — Built with **Node.js, Express.js**, handling RESTful endpoints, authentication, and database connections.
-* [X] **Database (MySQL)** — Relational database schema designed for users, tasks, categories, and states (Find at TaskMaster Backend).
+* [X] **[TaskMaster Frontend](https://github.com/GiorgosDen/ToDoListv2FrontEnd)** — Built with **React.js, JavaScript (ES6+), and React Router** (Hosted on Vercel).
+* [X] **[TaskMaster Backend](https://github.com/GiorgosDen/ToDOListv2BackEnd)** — Built with **Node.js, Express.js**, handling RESTful endpoints, authentication, and database connections (Hosted on Render).
+* [X] **Database (MySQL)** — Relational database schema designed for users, tasks, categories, and states (Find at TaskMaster Backend - Hosted on Aiven).
 
 ---
 
